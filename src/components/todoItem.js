@@ -30,7 +30,7 @@ const TodoItemBlock = styled.div`
 const CheckCircle = styled.div `
     display: flex;
     align-items: center;
-    jusify-content: center;
+    justify-content: center;
     margin-right: 20px;
     width: 32px;
     height: 32px;
